@@ -1,11 +1,11 @@
-# WebApp! Where You Can Play Chess Online.
+# WebApp! Where You Can Play Chess Online. ♻️
 
 - Welcome to the Ultimate Match Time Zone🏆. Ignite Your Sports Passion🔥
 - Immerse yourself in the captivating world of online chess on our gaming website. 
 - Get ready to embark on an exhilarating journey into the world of online chess.
 - Active participation is key. Come join us and be a true game changer!
 
-## Introduction
+## Introduction 👀
 
 Are you ready to experience chess like never before? Our online chess app offers a platform for chess enthusiasts to play, learn, and challenge themselves in a dynamic virtual environment. Whether you're a beginner or a seasoned player, our app caters to all skill levels and promises an engaging and strategic gaming experience.
 
@@ -13,7 +13,7 @@ Explore These Live Links Of Our Chess Application:
 - 🌐 https://itsindrajput.github.io/Chess/
 - 🌐 https://ilovechess.netlify.app/
 
-## Key Features
+## Key Features 🛠
 
 - Play Anytime, Anywhere: Enjoy the flexibility of playing chess online from the comfort of your own space. No need to set up physical boards or find opponents – everything you need is just a click away.
 
